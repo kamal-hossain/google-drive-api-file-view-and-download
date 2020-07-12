@@ -1,4 +1,7 @@
 # Host your files in google drive and grab them via Google Drive API v3
+## Todo:
+* Update the UI
+* host frontend & backend both on heroku
 
 #### About:
 
